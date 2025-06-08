@@ -34,9 +34,3 @@ A modern responsive web application for gym coaching and fitness programs built 
 
 > ⚠ If you encounter dependency errors, use the `--legacy-peer-deps` flag
 
-```bash
-git clone https://github.com/your-username/gym-coach-website.git
-cd gym-coach-website
-
-# Install dependencies
-npm install --legacy-peer-deps
